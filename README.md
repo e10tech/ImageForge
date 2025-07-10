@@ -2,7 +2,7 @@
 
 **ImageForge**へようこそ！このアプリは、AIイラストの質感調整、画像の背景除去、レトロなピクセルアート化など、さまざまな画像加工のニーズに応える多機能なWebアプリケーションです。複数の強力なツールを、Streamlitで構築された一つの使いやすいインターフェースに統合しました。
 
-**[➡️ こちらをクリックしてアプリを試す！](https://your-streamlit-app-url.streamlit.app/)**
+**[➡️ こちらをクリックしてアプリを試す！]([https://your-streamlit-app-url.streamlit.app/](https://imageforge-qr3hqqd2q9mobaw39n3bec.streamlit.app/))**
 *(デプロイ完了後、このURLをあなたのStreamlit CloudアプリのURLに書き換えてください)*
 
 ---
